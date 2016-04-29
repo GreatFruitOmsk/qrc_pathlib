@@ -17,7 +17,7 @@ setup(
     license='MIT',
     author='Ilya Kulakov',
     author_email='kulakov.ilya@gmail.com',
-    description="Extension for pathlib that implements Path and PurePath for Qt Resources Syste.",
+    description="Extension for pathlib that implements Path and PurePath for Qt Resources System.",
     platforms=["Mac OS X 10.6+", "Windows XP+", "Linux 2.6+"],
     keywords='qt qrc pyqt pathlib',
     classifiers=[
